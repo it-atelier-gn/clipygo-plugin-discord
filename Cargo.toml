@@ -1,6 +1,6 @@
 [package]
 name = "clipygo-plugin-discord"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 description = "Discord target provider for clipygo"
 authors = ["Georg Nelles"]
